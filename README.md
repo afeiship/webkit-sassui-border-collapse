@@ -14,4 +14,5 @@ npm i -S @feizheng/webkit-sassui-border-collapse
 ```
 
 ## resources
-+ https://github.com/afeiship/generator-webkit-sassui
+- https://github.com/afeiship/generator-webkit-sassui
+- https://stackoverflow.com/questions/17915865/how-to-make-borders-collapse-on-a-div
