@@ -1,0 +1,20 @@
+/*webkit-sassui-border-collapse Start*/
+$webkit-sassui-border-collapse-options: (
+  color: #f00
+) !default;
+
+.webkit-sassui-border-collapse {
+  &__table {
+    display: table;
+    border-collapse: collapse;
+  }
+  &__row {
+    display: table-row;
+  }
+  &__cell {
+    display: table-cell;
+    width: 10%;
+    box-sizing: border-box;
+  }
+}
+/*webkit-sassui-border-collapse End*/

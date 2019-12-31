@@ -1,0 +1,29 @@
+{
+  "name": "webkit-sassui-border-collapse",
+  "description": "Border collapse use css.",
+  "main": [
+    "dist/webkit-sassui-border-collapse.css",
+    "dist/webkit-sassui-border-collapse.scss"
+  ],
+  "authors": [
+    "afei"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "webkit",
+    "cssui",
+    "sassui"
+  ],
+  "homepage": "https://github.com/afeiship/webkit-sassui-border-collapse",
+  "moduleType": [
+    "amd"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "src"
+  ]
+}
