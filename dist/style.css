@@ -6,22 +6,17 @@
  * date: 2021-02-26 17:56:51
  * license: MIT
  */
-
 /*wsui-border-collapse Start*/
-$wsui-border-collapse-options: () !default;
+.wsui-border-collapse__table {
+  display: table;
+  border-collapse: collapse; }
 
-.wsui-border-collapse {
-  &__table {
-    display: table;
-    border-collapse: collapse;
-  }
-  &__row {
-    display: table-row;
-  }
-  &__cell {
-    display: table-cell;
-    width: 2000px;
-    box-sizing: border-box;
-  }
-}
+.wsui-border-collapse__row {
+  display: table-row; }
+
+.wsui-border-collapse__cell {
+  display: table-cell;
+  width: 2000px;
+  box-sizing: border-box; }
+
 /*wsui-border-collapse End*/

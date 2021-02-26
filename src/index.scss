@@ -1,7 +1,7 @@
-/*webkit-sassui-border-collapse Start*/
-$webkit-sassui-border-collapse-options: () !default;
+/*wsui-border-collapse Start*/
+$wsui-border-collapse-options: () !default;
 
-.webkit-sassui-border-collapse {
+.wsui-border-collapse {
   &__table {
     display: table;
     border-collapse: collapse;
@@ -15,4 +15,4 @@ $webkit-sassui-border-collapse-options: () !default;
     box-sizing: border-box;
   }
 }
-/*webkit-sassui-border-collapse End*/
+/*wsui-border-collapse End*/

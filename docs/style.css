@@ -1,0 +1,28 @@
+/*!
+ * name: @jswork/wsui-border-collapse
+ * description: Border collapse use css.
+ * homepage: https://github.com/afeiship/wsui-border-collapse
+ * version: 1.0.0
+ * date: 2021-02-26 17:56:51
+ * license: MIT
+ */
+/*wsui-border-collapse Start*/
+.wsui-border-collapse__table {
+  display: table;
+  border-collapse: collapse;
+}
+
+.wsui-border-collapse__row {
+  display: table-row;
+}
+
+.wsui-border-collapse__cell {
+  display: table-cell;
+  width: 2000px;
+  box-sizing: border-box;
+}
+
+/*wsui-border-collapse End*/
+.test-wsui-border-collapse {
+  border: 1px solid red;
+}
